@@ -8,3 +8,5 @@ This lab presents a fantastic opportunity to apply the skills you’ve honed in 
 You are encouraged to get creative with the concept of your application—whether it’s a platform for book enthusiasts to review and rate their latest reads, a management system for local community gardens to track plantings and harvests, or even a tool for fitness buffs to schedule and log workouts. The sky’s the limit, and this is your chance to innovate and create something that you’re not only proud of but that could also impress potential employers or collaborators.
 
 
+
+
